@@ -1,0 +1,591 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Plenary possession makes a lawfull power: or Subjection to powers that are in being proved to be lawfull and necessary, in a sermon / preached before the judges in Exeter March 23. 1650. By Richard Saunders, preacher of the Gospel at Kentisbeer in Devon.</title>
+            <author>Saunders, Richard, d. 1692.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1651</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 74 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94220</idno>
+            <idno type="STC">Wing S756</idno>
+            <idno type="STC">Thomason E638_5</idno>
+            <idno type="STC">ESTC R203482</idno>
+            <idno type="EEBO-CITATION">99863427</idno>
+            <idno type="PROQUEST">99863427</idno>
+            <idno type="VID">165910</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94220)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165910)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 98:E638[5])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Plenary possession makes a lawfull power: or Subjection to powers that are in being proved to be lawfull and necessary, in a sermon / preached before the judges in Exeter March 23. 1650. By Richard Saunders, preacher of the Gospel at Kentisbeer in Devon.</title>
+                  <author>Saunders, Richard, d. 1692.</author>
+               </titleStmt>
+               <extent>[6], 26 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for William Adderton, and are to be sold at his shop at the three Golden Falcons in Duck-lane,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1651.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "July 28".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-05</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2011-05</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:165910:1" rendition="simple:additions"/>
+            <p>PLENARY POSSESSION MAKES A LAWFVLL POWER: OR SUBJECTION To Powers that are in being Proved to be lawfull and neceſſary, <hi>In a Sermon Preached before the Judges in</hi> Exeter March 23. 1650.</p>
+            <p>By RICHARD SAVNDERS, Preacher of the Goſpel at <hi>Kentisbeer</hi> in <hi>Devon.</hi>
+            </p>
+            <q>
+               <p>Concordiae patrono convenit defendere ſtatum Reipublicae qui quoque tempore ſit.</p>
+               <bibl>
+                  <hi>Cic.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>This ISOCRATES termes,</hi> 
+               <q>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</q>
+            </p>
+            <q>
+               <p>Optimum, quemque praeſenti ſtatu gaudere.</p>
+               <bibl>
+                  <hi>Liv.</hi>
+               </bibl>
+            </q>
+            <q>
+               <bibl>
+                  <hi>Tit. 3.1.</hi>
+               </bibl>
+               <p>Put them in minde to be ſubject to principalities and powers. &amp;c.</p>
+            </q>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>William Adderton,</hi> and are to be ſold at his ſhop at the three Golden Falcons in <hi>Duck-lane.</hi> 1651.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:165910:2"/>
+            <pb facs="tcp:165910:2"/>
+            <head>To the READER.</head>
+            <opener>
+               <salute>Chriſtian READER,</salute>
+            </opener>
+            <p>
+               <hi>
+                  <seg rend="decorInit">I</seg>
+               </hi> Have here preſented thee with a ſhort diſcourſe on a Queſtion, not very fit I confeſse by modeſt Chri<g ref="char:EOLhyphen"/>ſtians in a private capacity to bee moved, but being moved very ne<g ref="char:EOLhyphen"/>ceſſary to be anſwered, <hi>viz. Whe<g ref="char:EOLhyphen"/>ther we may acknowledge, and ſubmit unto the Parliament as the Supreme Power of this Common-wealth in beeing.</hi> I de<g ref="char:EOLhyphen"/>livered the greateſt part of what thou findeſt here, in a Sermon, and upon the deſire of thoſe Honorable Perſo<g ref="char:EOLhyphen"/>nages (the Judges) before whom among others I ſpake, I have adventured to expoſe the ſame to publique view.</p>
+            <p>In preaching of it, my drift was to ſatisfy conſcience, in a thing of generall concernment to all perſons be<g ref="char:EOLhyphen"/>longing to this Common-wealth; and this is mine end in printing of it. I confeſſe I was ſilent for a while (not wholly ſuſpending my duty of endeavoring occa<g ref="char:EOLhyphen"/>ſionally to acquaint men with their duty in this change
+<pb facs="tcp:165910:3"/>of things) but waving ſo publique and profeſſed an en<g ref="char:EOLhyphen"/>gagement in this great controverſie, waiting for ſome more choyce parts to undertake the ſame: But find<g ref="char:EOLhyphen"/>ing too great a ſilence in this thing, and many conſci<g ref="char:EOLhyphen"/>ences by this meanes enſnared, I could not hold my peace.</p>
+            <p>If thou aske me why I handled this in the City, ra<g ref="char:EOLhyphen"/>ther than in the Country where I live; I anſwer,</p>
+            <p>
+               <hi>1.</hi> I have not been wanting unto mine owne people, in ſatisfying them, ſo far as was needfull, according to my talent; ſo that I dare ſay, there are hardly a<g ref="char:EOLhyphen"/>ny among them (eſpecially of thoſe that carry any face of religion) that did as much as queſtion the thing that is here diſputed, at the time when I did preach this.</p>
+            <p>
+               <hi>2.</hi> I conceived that there was greateſt need of ſuch a diſcourſe, where I found moſt diſſenters: and beſides I could not have had a better advantage of ſatisfying all ſorts, than at ſuch a publique meeting.</p>
+            <p>I have taken liberty, in printing, to ad ſome things to what I delivered by mouth, becauſe the ſmall time I had to deliver my thoughts, upon ſo large a ſubject, made me out many things too ſhort. Something that I ſpake I have forborne to print, <hi>viz.</hi> A ſhort exhorta<g ref="char:EOLhyphen"/>tion to the Judges in the cloze of my Sermon; The ſub<g ref="char:EOLhyphen"/>ſtance of which, with ſome enlargement, I had inſerted in an Epiſtle Dedicatory to them, but that I thought good to decline the writing of any Dedicatory Epiſtle, among other reaſons, for that I would avoyd the ſu<g ref="char:EOLhyphen"/>ſpicion of intending, or aiming at the favour of great men.</p>
+            <p>I have laboured a little the more in collecting the teſtimonies of the learned, that witneſſe to what I ſpeak
+<pb facs="tcp:165910:3"/>all along, not that the truth aſſerted needs humane te<g ref="char:EOLhyphen"/>ſtimony to ſupport it; but that thoſe that are diſſen<g ref="char:EOLhyphen"/>ting, may ſee how paſſion, or affection, or prejudice, (or what I know not) hath carried them in this cauſe quite out of the way of thoſe, whoſe authority in other matters they make much of. I wonder what ſhould make thoſe that condemne ſingularity, and new noti<g ref="char:EOLhyphen"/>ons and conceits in others, (as I my ſelfe alſo doe, ſo far as they agree not with ſound doctrine) to goe ſuch a new and ſingular way themſelves, contrary to the ſenſe of the learned in the things diſcourſed of in this tract. The Kings of the earth, in particular the Kings of this Nation, would have given a man but little thanke for teaching or ſuggeſting (as now ſome doe) that uſurped powers may not lawfully bee ſubmitted to, or acknowledged; ſuch a doctrine without doubt would have ſhaken their Crownes. That ſuch are to be ſubmitted to, in this Sermon, I have (I hope) made plaine: the which I have done, not that we need fly to ſuch an argument to juſtifie ſubjection to the preſent Power, The Parliament; as thou wilt or mayeſt ſee by that time thou haſt read through this booke; but that I, ſuppoſing the worſt, may let men ſee how ſlender the grounds of non-ſubjection are.</p>
+            <p>Seek God, lay aſide prejudice and jelouſies, examine impartially what thou findeſt. <hi>Opinions that relate either to the ſetling or unſetling of Nations are weighty.</hi> Be ſerious, and the God of truth direct thee. If thou findeſt any ſatisfaction by the Authours weak attempts and endeavours, this is all hee beggs of thee, to remember him at the throne of grace, that
+<pb facs="tcp:165910:4"/>he may become more ſtrong to doe thee, or any of the elect of God ſervice; which is all that is the deſire of him, who is</p>
+            <closer>
+               <signed>Thine, in the advancement of truth and peace. RICHARD SAUNDERS.</signed>
+               <dateline>From my study in <hi>Kentisbeer</hi> 
+                  <date>
+                     <hi>May 19. 1651.</hi>
+                  </date>
+               </dateline>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:165910:4"/>
+            <head>S<g ref="char:V">Ʋ</g>BJECTION TO POWERS IN BEEING ASSERTED AND PROVED, <hi>IN A Sermon Preached before the Judges at the laſt Aſſize held in</hi> Exeter <hi>beeing on</hi> March <hi>23<hi rend="sup">o</hi>.</hi> Anno Dom. <hi>1650.</hi>
+            </head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>On ROM. 13.1.</hi>
+                  </bibl>
+                  <p>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</p>
+                  <p>Let every Soul be ſubject to the higher powers, for there is no power but of God: The powers that be are ordained of God.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">T</seg>HE main body of this Epiſtle conſiſts of certain Theologicall Concluſions, tending to the clearing up of the Do<g ref="char:EOLhyphen"/>ctrines of Juſtification by Faith, Sancti<g ref="char:EOLhyphen"/>fication, and particular Election. This we finde to be the principall matter of the eleven firſt chapters.</p>
+            <p>The latter part containes many par<g ref="char:EOLhyphen"/>ticular, morall Exhortations, reaching home to the laſt Chap<g ref="char:EOLunhyphen"/>ter, which is ſpent in brotherly ſalutations.</p>
+            <p>Among thoſe particular Exhortations which the Apoſtle gives unto the Saints at <hi>Rome</hi> (the perſons he directs his E<g ref="char:EOLhyphen"/>piſtle to) we finde this 13 chapter laying down one, holding forth a rule for them to walke by, in their carriage towards
+<pb n="2" facs="tcp:165910:5"/>the Powers and Rulers of the Earth, under which the Lord had fixed them: That ſo they might be directed to walk in<g ref="char:EOLhyphen"/>offenſively both before God and men.</p>
+            <p>The Goſpel meddles little with State-matters; we finde the Apoſtles very ſparing in them: And what <hi>Paul</hi> ſpeaks here, he ſpeaks as a Divine, not diſputing of the Powers that were in Being, whether they were lawfull, or uſurped (though there was room enough for ſuch a diſpute, if it had been proper for him) but onely exhorting the Saints, according to the law and rule of Civill and Politicall Order, (which God himſelf hath for common good ratified and fixed in the world) to ſubmit unto them. <hi>Let every ſoul be ſubject to the higher Powers,</hi> &amp;c.</p>
+            <p>They that are well acquainted with my Miniſtry, and way of Preaching, know, I ſeldome ingage in State-Divinity, the work of a Goſpel-Miniſter being to win ſouls to Chriſt, and to reveale a ſpirituall Kingdome which is not of this world: but where Scripture ſpeaks, though but ſparingly, there may we ſpeak too, ſo that we remember ſtill what our main work is; eſpecially when ſome emergent reaſons provoke unto the ſame.</p>
+            <p>Upon this account have I endeavoured to ſpeake ſome<g ref="char:EOLhyphen"/>thing unto this Scripture, in opening of which, wee ſhall, I hope, finde ſomewhat fatisfying ſome ſcruples to this day on foot amongſt us.</p>
+            <p>The former part of my Text is an <hi>Exhortation,</hi> grounded on a <hi>Doctrinall Concluſion</hi> layd down and illuſtrated in the latter part.</p>
+            <p>The <hi>Exhortation</hi> in theſe words, <hi>Let every ſoul be ſubject to the higher Powers.</hi>
+            </p>
+            <p>The Doctrine, <hi>There is no power but of God.</hi> The which is amplyfied, or illuſtrated in the next, or laſt words, <hi>The Powers that be, are ordained of God.</hi>
+            </p>
+            <p>The Text being ſuch an expreſſe Doctrine and Uſe, I ſhall not affect to draw forth any other Concluſions out of it, but labour to give you the true ſenſe of the termes and expreſ<g ref="char:EOLhyphen"/>ſions as they lie, and apply the whole to our preſent oc<g ref="char:EOLhyphen"/>caſion.</p>
+            <pb n="3" facs="tcp:165910:5"/>
+            <p>As for the firſt words, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Every ſoul,</hi> which com<g ref="char:EOLhyphen"/>prehends the perſons whom this exhortation concerns; there is no difficulty in them, nor controverſie about them, that I know, ſave between us and the Papiſts, who following the interpretation of <hi>Origen,</hi> underſtand by [<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>] <hi>Every ſoul</hi> [<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>] every naturall man, ſo excluding their Clergy from any ſubjection to Civill Powers, becauſe they are not [<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>] naturall, but [<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>] ſpirituall men. But this is ſo frivolous, that I need not to take any pains to furniſh any with an argument to refute it. Clergy-men, as well as others, <hi>Every ſoul,</hi> that is, every man and woman, is moſt certainly, and indiſputably here intended.</p>
+            <p>And Chriſt himſelfe gave an example of this, in that he himſelf payd Tribute by way of acknowledgement of the <hi>Civil Order</hi> eſtabliſhed. <hi>Mat.</hi> 17.27. Not that he himſelfe was to be accounted ſubject to any earthly power; for, being made heir of all things, he had a preheminence above all Kings and Princes of the earth: But this he did to give us an example of ſubjection unto thoſe that are over <hi>us.</hi>
+            </p>
+            <p>But that which is moſt conſiderable in this Scripture, and to be lookt into, is, that there is mention made in it of <hi>Powers,</hi> and <hi>higher Powers.</hi> And concerning theſe Powers, we find expreſſions, 1. Of <hi>Subjection</hi> to them. 2. Of, and concer<g ref="char:EOLhyphen"/>ning their Being. 3. Of their <hi>Ordination</hi> and <hi>Inſtitution by God.</hi> All which particulars, or moſt of them, have difficulty and dubiouſneſſe in them. Therefore my work ſhall be to open them to you, and that by giving an anſwer to theſe four Queſtions.</p>
+            <list>
+               <item>1. <hi>What is meant by Powers, and higher Powers?</hi>
+               </item>
+               <item>2. <hi>What it is to be Subject to them?</hi> Or, <hi>What is the Subjection that is required?</hi>
+               </item>
+               <item>3. <hi>When Powers may be ſayd to be?</hi> Or, <hi>What Powers may be ſayd to be?</hi>
+               </item>
+               <item>4. <hi>How they are ſayd to be ordained of God?</hi>
+               </item>
+            </list>
+            <p>A word or two to the firſt of theſe, which will be ne<g ref="char:EOLhyphen"/>ceſſary by way of introduction to give light to what fol<g ref="char:EOLhyphen"/>loweth.</p>
+            <p>By <hi>Powers</hi> we are to underſtand <hi>Civil Magiſtrates.</hi> All,<milestone type="tcpmilestone" unit="unspecified" n="1"/> I
+<pb n="4" facs="tcp:165910:6"/>think agree in this, and if any ſhould doubt of it, we have one Scripture where we finde this word <hi>Powers</hi> joyned with <hi>Magiſtrates</hi> as <hi>Synonimous.</hi> It is <hi>Luke</hi> 12.11. where Chriſt ſayes, When they ſhall bring you unto the Synagogues, and unto Magiſtrates, and Powers, take no thought, &amp;c. Here Magiſtrates and Powers are ſet down as expreſſing one and the ſame thing.</p>
+            <p>
+               <hi>Paul</hi> in the fourth verſe of this 13 Chap. to the <hi>Romans,</hi> calls a Magiſtrate, One that beareth the ſword, <hi>i. e.</hi> the ſword of power and juſtice. <hi>viz.</hi> Such a one as is in rule and pow<g ref="char:EOLhyphen"/>er,<note place="margin">Par. in loc.</note> over others. So <hi>Pareus. Qui potentia &amp; poteſtate ſunt armati in alios;</hi> Such as are inveſted with power and authority over others. And the reaſon why he ſayes <hi>Powers,</hi> rather than <hi>Kings, Princes,</hi>
+               <note place="margin">Nam omnes complectitur Paulus, cùm ait, non eſſe poteſtatem niſi a Deo. <hi>Cal. Inſt.</hi> l. <hi>4. cap. 20.</hi>
+               </note> 
+               <hi>Emperours, Senates, Parlaments,</hi> or the like, is two<g ref="char:EOLhyphen"/>fold, either, Firſt, Becauſe this is a more comprehenſive word taking in Rulers and Governours of what kinde ſoever, and doth denote any in power under what form of Govern<g ref="char:EOLhyphen"/>ment ſoever, whether Monarchicall, Ariſtocraticall, or Democraticall. Secondly (which is the reaſon <hi>Pareus</hi> gives) That he may be underſtood to ſpeak, not of the <hi>perſons</hi> ſo much, as <hi>de ordine ipſo,</hi> of the Order it ſelfe fixed and ſet up by God.<note place="margin">Pareus in Loc.</note> For if we ſhould look upon the perſons of men in authority and eminency, we may eſpie many times failings, and corruptions, and cauſes of <hi>non-Submiſſion:</hi> whereas if we have reſpect unto that <hi>Civill Order</hi> that is ſet up and fixed by God, for Common good and ſafety, we may ſee greater reaſon for ſubmitting.</p>
+            <p>Whereas the Apoſtle here ſayes <hi>higher Powers,</hi> Tis not as I conceive comparing Powers one with the other, as if the meaning of Higher Powers were, ſuch Powers as are upper<g ref="char:EOLhyphen"/>moſt of all: I ſay that is not the meaning of the word. But Higher in relation to the people they are over.<note place="margin">Rather to be rendred <hi>high</hi> Powers then <hi>higher</hi> Powers.</note> The words are [<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>] <hi>Powers that are ſet above others.</hi> Such as have the people under them. <hi>Quae praeſunt nobis,</hi> Such as be over us.</p>
+            <p>There hath been ſome controverſie touching this word <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> made uſe of in the text: Some being of the minde that it ſignifies in Scripture onely a lawfull Power and Au<g ref="char:EOLhyphen"/>thority,
+<pb n="5" facs="tcp:165910:6"/>in oppoſition to a power uſurped: which: though it be a new notion and conceit formed on purpoſe to take off the edge of this Scripture, yet findes it entertainment with ſome. I ſuppoſe I do not miſname it in calling of it a new conceit; for ſure, the limiting and confining the word unto that ſtrict ſenſe is both new, and having little ground, either in Scripture, or the proper genuine<note n="*" place="margin">We read in <hi>Dio. Hiſt. Rom.</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, which could not be if <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> by it ſelfe, with that Greek Author, did ſignifie a lawfull Power. <hi>Plutarchus &amp; Herodianus</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>&amp;</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>copularunt. Scap. Lex. Gr.</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>AEmil. Port. Annot. in Thucyd. de Bello Pelop.</hi>
+               </note> ſignification of the word it ſelfe.</p>
+            <p>Tis true that learned men the better to expreſſe their con<g ref="char:EOLhyphen"/>ceptions, do take liberty ſometimes to put ſome ſenſes upon certain words more than they had originally in them; not with an intent to co<g ref="char:cmbAbbrStroke">̄</g>fine the words to the new created or im<g ref="char:EOLhyphen"/>poſed ſignifications, but onely the better to make out to the apprehenſions of others a diſtinction between things that dif<g ref="char:EOLhyphen"/>fer. So ſome have made uſe of <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> and <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> to diſtin<g ref="char:EOLhyphen"/>guiſh between lawfull and unlawfull or uſurped Powers, as they doe the latine of <hi>Poteſtas</hi> and <hi>Potentia,</hi> which yet I thinke every man will confeſſe, import one and the ſame<note n="*" place="margin">Poteſtas poſſe Potentia Cum ſignifica<g ref="char:EOLhyphen"/>tio vocabulorum quaeritur, fit plerumque vt a<g ref="char:EOLhyphen"/>liud in ſermone vulgate, aliud apud eos qui diſciplinas tradunt ſignifi<g ref="char:EOLhyphen"/>care inveni<g ref="char:EOLhyphen"/>untur. <hi>Eſtius in ſent.</hi>
+               </note> thing.</p>
+            <p>Is it not moſt abſurd to argue thus? Becauſe ſome have uſed the word in this ſtrict ſenſe, that therefore we muſt ex<g ref="char:EOLhyphen"/>pound it ſo in Scripture. Some of the Fathers and Ancients have made uſe of this word <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. <hi>i. e.</hi> a Myſtery, to ſignify a Sacrament; now becauſe St. <hi>Paul Ephes.</hi> 5.32. ſayes mar<g ref="char:EOLhyphen"/>riage is <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> a great myſtery, do the Papiſts ſoundly conclude, or may they infer that marriage is a Sacrament? I hope not.</p>
+            <p>But I having heard ſome (of ſuch as elſe would hug ſuch a nicity and Criticiſme as this in this cauſe) ingenuouſly to confeſſe, that the contrary hath been ſufficiently cleared by ſome others that have written of it, I ſhall paſſe it by. Though I could tell you that the <hi>Devills</hi> are called <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>Powers</hi> too, as <hi>Ephes.</hi> 6.12. And yet I hope their rule, and dominion, and power,<note n="*" place="margin">Non eſt ille (viz. Satan) princeps mundi legitimus, ſed per rapinam, &amp;c. <hi>Wolf. Muſc. in Ioh. 12.31. See Annot. on the bible on Ephes. 6.12.</hi>
+               </note> is uſurped and intruded into, and not of right be<g ref="char:EOLhyphen"/>longing
+<pb n="6" facs="tcp:165910:7"/>to them And you ſhall finde that in <hi>Heb.</hi> 2.14. that power which the Devils have is expreſt by another word which ſignifyes meer<note n="*" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Sign. Robur. vis, potentia</note> might, force, or ſtrength: So that lay thoſe two Scriptures together, and you may infer from them, that theſe words <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> and <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> or <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> are uſed indiffe<g ref="char:EOLhyphen"/>rently to expreſſe one and the ſame thing.</p>
+            <p>But that I may decline Logomachie or ſtrife of words, I grant the meaning of the Apoſtle here to be a lawfull Pow<g ref="char:EOLhyphen"/>er, that is ſuch a <hi>Power</hi> or Magiſtrate as may lawfully be o<g ref="char:EOLhyphen"/>beyed, yea ſuch a Power as hath right to be obeyed and ſub<g ref="char:EOLhyphen"/>mitted to: Though I do withall deny, that he intends ſuch Powers onely as came lawfully and inoffenſively unto that height, eminency, and authority in which they ſtand: And that upon theſe grounds.</p>
+            <p n="1">1. Becauſe (to omit this that the ſignification of the word imports no ſuch thing) if this ſhould be the Apoſtles mea<g ref="char:EOLhyphen"/>ning, <hi>Let every ſoul be ſubject to the Powers that are over him,</hi> that is, if they came lawfully and regularly by the power they have, and were not uſurpers and intruders: He had ſaid as much as nothing at all to the Saints he writes to,<note place="margin">Caeſares qui tunc rerum po<g ref="char:EOLhyphen"/>tiebantur Mo<g ref="char:EOLhyphen"/>narchiam vi Tyrannica ad ſe rapuerant. <hi>Cal. in 1. Pet. 2.13. See more in my anſwer to the third objecti<g ref="char:EOLhyphen"/>on.</hi>
+               </note> for they lived under the <hi>Roman Emperours,</hi> whoſe power was a power forcibly wreſted out of the hands of the <hi>Senate</hi> and people, as will appear more clearly anon. They muſt needs have con<g ref="char:EOLhyphen"/>ceived, ſure <hi>Paul</hi> doth not meane the <hi>Emperour,</hi> for if he be a <hi>lawfull</hi> power, then none is unlawfull.</p>
+            <p n="2">2. Or elſe, ſecondly if it were otherwiſe, that is, if <hi>Nero's</hi> power were not an unlawfull power, yet how imperfect and unſatisfactory is the Apoſtles advice notwithſtanding if we be to interpret him in that limited ſenſe before mentioned? Tis true underſtand him ſo, and he gives ſatisfaction in one thing which has but little difficulty in it, <hi>viz.</hi> That lawfull Pow<g ref="char:EOLhyphen"/>ers, ſuch as are rightly and regularly introduced, are to be ſubmitted to; but he leaves us to ſeek about that which is far more difficult, yea even impoſſible in ſome caſes for us to finde out, and that is, what Powers are lawfull, what not? How can Chriſtians give judgement of thoſe ſupreme Pow<g ref="char:EOLhyphen"/>ers that they live under? What a worke ſhould a Chriſtian have to do, if he were to ſeeke out the <hi>originall Right</hi> of Su<g ref="char:EOLhyphen"/>preme
+<pb n="7" facs="tcp:165910:7"/>Governours by which they hold their power? Where ſhould they have recourſe for ſatisfaction? what rule ſhould they proceed by? Truly a man may ſee with halfe an eye that this cannot be <hi>Pauls</hi> meaning: Twas never his in<g ref="char:EOLhyphen"/>tent to put Chriſtians upon ſuch a taske. His meaning is then nakedly what the words expreſſe, <hi>Let every ſoul be ſubject to the Powers that are,</hi> of what kind ſoever, and by what meanes ſoever fixed over us: we ought not to perplex our ſelves with needleſſe, endleſſe queſtions concerning their <hi>Right,</hi> but fit down ſatisfied in this that they are ſuch as are in power, and have the rule and Government of us.</p>
+            <p>This may ſuffice to be ſpoken to the firſt Queſtion. What is meant by Powers and higher Powers here. The ſecond Queſtion follows.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Queſt. </seg>2</label>
+               <hi>What tis to be Subject? or what is the Subjection that is here required?</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Sol. </seg>
+               </label> It is the manner of men where they would not be bound themſelves, there to bound and limit Gods command, ſhut<g ref="char:EOLhyphen"/>ting it up into a narrow compaſſe that themſelves may have the more ſcope and elbow-room: So do ſome here, who when they can not avoyd the force of this command, doe la<g ref="char:EOLhyphen"/>bour to ſhut it up within their own bounds</p>
+            <p>They will be ſubject to the Powers that are over them, that is, they will not oppoſe, they will not draw the ſword againſt them, and this is all (ſay they) the Apoſtle here calls for.</p>
+            <p>I confeſſe this is more than all will acknowledge them<g ref="char:EOLhyphen"/>ſelves bound to, in relation to the Powers we have now over us. But ſurely the bounds of this command reach further than this; pray weigh it well. The Lord pronounces a curſe <hi>Deut.</hi> 27.17. againſt ſuch as remove their neighbours land<g ref="char:EOLhyphen"/>marke, or<note n="*" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>termi<g ref="char:EOLhyphen"/>nus</hi> a limit or boundary from <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>Terminavit</hi> which the Sept. render <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> boundary as the word ſignifies: and is it not worſe to remove the bounds that God hath ſet to his com<g ref="char:EOLhyphen"/>mands? Well let us conſider what is the true latitude of <hi>Pauls</hi> expreſſion here.</p>
+            <p>The Greek word is [<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>] which ſome render, and that very aptly as I conceive <hi>[Su<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ordinetur]</hi> let every ſoul <hi>be ſet in order under</hi> the higher Powers. For the word hath re<g ref="char:EOLhyphen"/>ſpect
+<pb n="8" facs="tcp:165910:8"/>unto <hi>Civill order,</hi> oppoſed to <hi>Ataxie,</hi> or <hi>Confuſion,</hi> and is very ſignificant. Tis as much as Let every ſoul be poſi<g ref="char:EOLhyphen"/>ted or placed<note n="*" place="margin">The word is compounded of <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> which ſign. <hi>Sub,</hi> and <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>ordine diſtribui,</hi> word for word in Engliſh, To be placed in or<g ref="char:EOLhyphen"/>der under.</note> orderly, or according to the rules of Civill and Politicall Order, under the Powers that are over. So that it is more than Honour, Obey, or Oppoſe not; for it compriſes all theſe in it, and what ever elſe is requiſite unto an <hi>Eutaxie,</hi> or good Order in a body Politick.</p>
+            <p>And if ſo, tis not then barely to be patient under them, as one would be under a judgement, plague or affliction, (Though I confeſſe they that are in authority, by the abuſe and male-adminiſtration of their Power, are no leſſe than plagues unto thoſe that are godly ſometimes) as was the Power under which the Apoſtle lived, and I may ſay that Power under which we formerly lived. I ſay tis not barely to be patient under, or not to ſpeake againſt, or act againſt them forcibly; though this be included: but this ſame Em<g ref="char:EOLhyphen"/>phaticall expreſſion implies, what ever is requiſite unto Ci<g ref="char:EOLhyphen"/>vill Order, or human ſociety, what ever is requiſite and ſu<g ref="char:EOLhyphen"/>table unto, and becoming that proportion that is, or ought to be between head and members, the Rulers and Ru<g ref="char:EOLhyphen"/>led; in ſhort, what ever is neceſſary to prevent the diſſolving of the frame of Government or Civill Order eſtabliſhed, and what may preſerve and perfect and ſecure the ſame, all this is intended by ſubjection here: And to give any ſtreighter bounds to its meaning &amp; ſignification is to do injury to the word made uſe of in the text, than which, the Apoſtle could not have pitcht upon one more ſignificant.</p>
+            <p>In particular I conceive theſe three things are implyed in the ſubjection here enjoyned.</p>
+            <p n="1">
+               <note place="margin">1. Honor.</note>1.<hi>To have a reverent eſteem</hi> of thoſe that are in power, if not for any perſonall perfections which we can ſee in them, yet at leaſt in reſpect of their eminency in power, in reſpect of which they repreſent Gods Soveraingty to us, and are his vicegerents. This <hi>Paul</hi> makes mention of a little after my text in <hi>ver.</hi> 7. Bidding us to give honour to whom honour is due, meaning Honour to all thoſe that are in power; the which implies a ſincere and Candid eſtimation of them, as men bearing the image of Gods Soveraignty. Surely Con<g ref="char:EOLhyphen"/>tempt
+<pb n="9" facs="tcp:165910:8"/>of men in power, and true Chriſtian-like ſubjection, can never conſiſt and ſtand together.</p>
+            <p n="2">
+               <note place="margin">2. Obedientia</note>2. <hi>To obey them,</hi> that is, in all things that are not unlaw<g ref="char:EOLhyphen"/>full and againſt the divine will; for otherwiſe, in caſe men in power command things unlawfull, we muſt take up <hi>Peters</hi> ſpeech, <hi>Acts</hi> 4.19. <hi>Whether it be right in the ſight of God to hearken unto men rather than unto God, judge ye.</hi> But in things that are lawfull before God, yea in all ſuch things as are <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, of an indifferent or middle nature, we are bound to Obey: As in paying Tribute or Cuſtome, <hi>&amp;c.</hi> Which <hi>Paul</hi> makes mention of in particular, <hi>ver.</hi> 7. And if it be ſo, then much more ought we to obey them in things unqueſtio<g ref="char:EOLhyphen"/>nably good and laudable. Surely ſuch as refuſe (as ſome do) to perform lawfull Duties upon this account, that they are enjoyned by a Power that they preſume to conceive unlaw<g ref="char:EOLhyphen"/>full, diſcover much Zeal and Affection, but little judgment, or Chriſtian diſcretion, as far as I can judge. I know not what is the myſtery of it, but ſurely if this ſhould go for a Rule, that a Chriſtian might not do lawfull things comman<g ref="char:EOLhyphen"/>ded by an unlawfull Power, we might ſoon be commanded out of all our Religion.</p>
+            <p>
+               <note place="margin">3. Fidelitas.</note>But Thirdly, this implies <hi>to be true and faithfull</hi> unto them, <hi>viz.</hi> In labouring to defend them that defend and protect us from confuſion, and that in diſcovering any deſignes on foot againſt them, and the like. This muſt needs be implied in the ſubordination ſpoken of in the Text; for 'tis that which knits the very joynts of a Common-wealth. There can never be any Civil order preſerved in a Nation, without mutuall reſolutions and endeavours in Rulers and ruled of protecting one the other. And if Chriſtians ought to bee true and faithfull, without doubt they may <hi>promiſe</hi> to bee ſo.</p>
+            <p>You ſee what Subjection means: no leſſe than all this is due from you unto what ever Power you are to be ſubject to. The diſtinction of Active and Paſſive ſubjection hath no place here, for [<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>] <hi>Pauls</hi> expreſſion in the Text, ſignifies both, in the latitude before expreſt.</p>
+            <p>The Third Queſtion inquirable into is,</p>
+            <pb n="10" facs="tcp:165910:9"/>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Queſt. </seg>3</label>
+               <hi>When Powers are ſayd to</hi> Be? Or, <hi>What Powers may be ſayd to</hi> Be?</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Sol. </seg>
+               </label>'Tis requiſite this ſhould be enquired after, in that the Doctrinall concluſion in the Text runs thus: There [is] no Power but is of GOD, and the Powers that <hi>be</hi> are ordai<g ref="char:EOLhyphen"/>ned of GOD. The Apoſtle diſputes up Subjection to the Civil Powers from the bare exiſtence and <hi>being</hi> of them. And therefore 'tis of the greater concernment to know when they may be ſayd to <hi>Be?</hi>
+            </p>
+            <p>To ſatisfie you as to this Queſtion, I anſwer, that there is not much difficulty or dubiouſneſſe in this matter; for the <hi>Being</hi> of Powers, ruling Powers, is no ſuch inſenſible thing; our very ſenſes will teach us who are in power over us, wee ſee and feele the influences of their power good or evil, ſweet or bitter. But in a word to this alſo.</p>
+            <p>When the Apoſtle ſayes, <hi>The Powers that be.</hi>
+            </p>
+            <list>
+               <item>
+                  <milestone type="tcpmilestone" unit="unspecified" n="1"/> 1. He meanes the Powers that are over [us] not the Powers of another Nation or people: All Powers have right unto the ſubjection of the people, that is, of the people over which they are. We have nothing to doe with the Princes and Rulers of another Nation, nor they with us.</item>
+               <item>
+                  <milestone type="tcpmilestone" unit="unspecified" n="2"/> 2. In that he ſayes the Powers that be, he excludes ſuch as <hi>pretend Right</hi> to Government and Power, <hi>Quando non praeſunt,</hi> when they are not actually in power over us. Chriſtians are not required to inquire after the <hi>pretended Rights</hi> of any, they are to look to thoſe that [are] in Power.</item>
+               <item>
+                  <milestone type="tcpmilestone" unit="unspecified" n="3"/> 3. In this expreſſion the Apoſtle excludes Powers that are, or may be expected, or lookt for, or hoped for: Hope is of things that are not, but theſe muſt be of Powers that [are.]</item>
+               <item>
+                  <milestone type="tcpmilestone" unit="unspecified" n="4"/> 4. By theſe words he gives us to underſtand, that he means, not Powers that have been, though for never ſo long conti<g ref="char:EOLhyphen"/>nuance, but onely ſuch as are now in <hi>being:</hi> And therefore he ſaies expreſly the Powers that <hi>be.</hi>
+               </item>
+            </list>
+            <p>But if any will be further curious to ask of me, when Powers are ſayd to be, I anſwer,</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> 1. When they take upon them to protect and govern the people, and have an uncontroleable power to back their un<g ref="char:EOLhyphen"/>dertaking. When the people are involved in their power, and
+<pb n="11" facs="tcp:165910:9"/>they in eminency over them. This the Learned conſent to. <hi>Calvin</hi> ſayes, <hi>Satis nobi<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſse debet quod praeſunt;</hi> 'Tis ſufficient that they be above us. And <hi>Bucer on Rom.</hi> thus, <hi>Poteſtates hae ſunt, quibus eſt merum imperium, &amp; poteſtas vitae &amp; necis;</hi> They are Powers, in whoſe hands is meer Maſtery or Dominion, and the power of life and death. And again, he deſcribes them to be ſuch as beare the ſword, and ſo are Supreme: and ſuch as are inveſted with meer Maſtery or Dominion; ſee his own words in the Margent<note n="*" place="margin">Cumque unius corporis non poſſit niſi unum caput eſſe: <g ref="char:V">Ʋ</g>ni<g ref="char:EOLhyphen"/>us Reipub. niſi una poteſtas. In quaque Republica, poteſtati quae gladium geſtat atque ideo ſuprema eſt, me<g ref="char:EOLhyphen"/>roque imperio pollet, ſubjici debet Omnis anima. <hi>Bucer. in Rom. 13.1.</hi>
+               </note> Many more ſuch like expreſ<g ref="char:EOLhyphen"/>ſions of the Learned might I inſert, but that I would not be tedious. You will finde more anon in the clearing of what is yet behind.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> 2. Powers then [are], when they give Laws to the people, and the people receive Law from them. This is a moſt viſible, and undoubted ſymtome of the Life and <hi>Being</hi> of a Gover<g ref="char:EOLhyphen"/>ning Power: When we ſee this, we may ſay a Government is, or a Power is, as ſafe as we may ſay, there is life where we ſee breathing. The adminiſtration of Law is the very ſoul and breath of a body Politick, and it can no more be with<g ref="char:EOLhyphen"/>out it, than a naturall body can live without breath, and without a ſoul. And are not ſuch then to be accounted Powers in Being unto a people, as do give (under God) life and breathing to them in a politicall ſenſe?</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> 3. And laſtly, Then Powers may be ſayd to be moſt un<g ref="char:EOLhyphen"/>doubtedly and unqueſtionably, when the people, or the grea<g ref="char:EOLhyphen"/>teſt part of them have by any means conſented to them as Rulers, and Governours over them.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> 1. I ſay, <hi>When the people, or the greateſt part of the people,</hi> have conſented: For what is an act of the major part of the people, is taken for the whole.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> 2. I ſay, <hi>When they have by any means conſented</hi> upon this account: Becauſe though their conſent or choice be not vo<g ref="char:EOLhyphen"/>luntary <hi>elicitivè</hi> but <hi>ſubjectivè</hi> only (as the Schoolmen di<g ref="char:EOLhyphen"/>ſtinguiſh) it is enough. That is, though it be not drawn forth by the will as the firſt and ſole productive principle of
+<pb n="12" facs="tcp:165910:10"/>it: Yet il it be with the will, moved; and acted by ſome ne<g ref="char:EOLhyphen"/>ceſſity apprehended, or the like; this is ſufficient to make it voluntary, and ſo valid; yea and fully as voluntary as any people have been in chooſing, or conſenting to their Kings or Princes.</p>
+            <p>I cannot conceive any thing more that can be added, as neceſſary to the <hi>being</hi> of an authority.</p>
+            <p>To ſay (as I have heard ſome do) that <hi>time,</hi> or <hi>duration</hi> gives, or may give a <hi>being</hi> to the lawfulneſſe of a ſupreme Power, ſeems to me very irrationall; for as ſayes <hi>Grotius, Tempus ſuapte natura vim nullam effectricem habet: Nilenim fit à tempore, quanquam nihil non fit in tempore;</hi> Time makes no<g ref="char:EOLhyphen"/>thing to be, though every thing be made in time. The dura<g ref="char:EOLhyphen"/>tion or continuance of things cannot make them to be what they are not in themſelves. <hi>Quod ab initio vitioſum eſt, &amp;c.</hi> ſaies<note n="*" place="margin">Quod ab initio vitioſum eſt, non poteſt tractu temporis conva<g ref="char:EOLhyphen"/>leſcere. <hi>Ulp.</hi> L. <hi>29.</hi>
+               </note> 
+               <hi>
+                  <g ref="char:V">Ʋ</g>lpian;</hi> That which is vitious in its riſe, cannot become valid by its continuance.</p>
+            <p>'Tis true, Preſcription and Cuſtome make things to be deemed right, which might not be ſo in themſelves original<g ref="char:EOLhyphen"/>ly: And yet, I hope, 'tis not <hi>Time</hi> or <hi>Duration</hi> that is the ground of this right, but a <hi>preſumption</hi> of right ſtill to have been, becauſe the ſame never known to be queſtioned. For lapſe of time undoubtedly cannot change the morality of a thing, ſo as that that which is unjuſt, ſhould become juſt by continuance. Time may alter the quality of actions, or things, <hi>à minore ad majus,</hi> that is, ſo as to make that which is evill, to become more evill; or that which is good, to become better: This tract of time may do; but that a thing that is unlawfull (as a Civill Power) ſhould become lawfull by continuance, ſeems to me a Paradox.</p>
+            <p>Surely this ſeems to me to be the judgment of ſuch, as are not willing to joyn hands with any Supreme Power that comes in upon the change of Government, till time hath worn out all danger of adhering to the ſame, and till the Power hath out-lived (in likelihood) the hazard of ſhaking. Surely 'tis not becomming Chriſtians to ſuſpend their obe<g ref="char:EOLhyphen"/>dience unto a Divine Rule, upon ſuch a carnall ground. But I paſſe to the laſt Queſtion, and that is this.</p>
+            <pb n="13" facs="tcp:165910:10"/>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Queſt. </seg>4</label>
+               <hi>How the Powers that be, are ſaid to be Ordained of God?</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Sol. </seg>
+               </label> I anſwer. Things are ſaid to be of God, or to be ordained of God, in a twofold ſenſe, <hi>viz.</hi> Either by manifeſt will and command, or by ſecret providence.</p>
+            <p>The one I call a <hi>Preceptive</hi> ordination, the other <hi>Provi<g ref="char:EOLhyphen"/>dentiall.</hi>
+            </p>
+            <p n="1">1. Such are ordained by God to rule by manifeſt will, or <hi>preceptive ordination,</hi> as are by God himſelf nominated, and commanded to be ſet up over the people, by expreſſe word; as were the Kings of <hi>Iſrael:</hi> When <hi>Iſrael</hi> would have a King, according to the mode of the Nations round about them, the Lord points out by expreſſe word who it ſhould be, and then who ſhould be his ſucceſſour, <hi>&amp;c.</hi> But any ſuch way of ordaining Rulers in a State, I hope, we may not ex<g ref="char:EOLhyphen"/>pect or look for now; becauſe ſuch appearances of God, as then were, are ceaſed: We have no Prophets, to whom God now ſpeaks (as of old) Go Annoint ſuch a perſon King; Go tell the people, ſuch a Perſon, or ſuch a Family, will I have to reign over them: he doth not ordain any then, now, after this firſt way, by manifeſt will, or expreſſe word.</p>
+            <p n="2">2. Now in the ſecond place, as for Gods <hi>Providentiall ordai<g ref="char:EOLhyphen"/>ning</hi> of Rulers or Powers, ſuch are Powers ordained of God, into whoſe hands Providence hath caſt Authority and Domi<g ref="char:EOLhyphen"/>nion: Such as Providence hath placed in eminency. This is the way after which all Rulers and Powers in the earth are now eſtabliſhed, and fixed by God: And 'tis that which <hi>Paul</hi> means in the Text, and makes the reaſon of Chriſtian ſubject<g ref="char:EOLhyphen"/>ion. Doth not Scripture ſpeak of that Soveraignty that the Lord makes uſe of in diſpoſing of the Empires of this world? See <hi>Dan.</hi> 2.21. <hi>And he changes the times and the ſeaſons, he removeth Kings, and ſetteth up Kings.</hi> And, <hi>Chap.</hi> 4.17. <hi>The moſt high ruleth in the Kingdom of men, and giveth it to whomſo<g ref="char:EOLhyphen"/>ever he will, and ſetteth up over it the loweſt or humbleſt of men,</hi> as the word<note n="*" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> Humilis, ſub<g ref="char:EOLhyphen"/>miſſus.</note> ſignifies. And again, <hi>Jer.</hi> 27.5. <hi>I have made the earth, the man, and the beaſt that are upon the ground, by my great power, and by mine out-ſtretched arme; and have given it to whom it ſeemed meet unto me.</hi> And the Pſalmiſt ſpeaks to the ſame purpoſe. <hi>Pſal.</hi> 75.6, 7. <hi>Promotion cometh neither from the Eaſt,
+<pb n="14" facs="tcp:165910:11"/>nor from the Weſt, nor from the South. But God is the judge; he putteth downe one, and ſetteth up another.</hi> The Lord ownes theſe changes to be from himſelfe, not by permiſſion onely, as you ſee, but by divine diſpoſition, and ordination, <hi>viz.</hi> Provi<g ref="char:EOLhyphen"/>dentiall. So that tis enough to ſatisfie us touching a Power that tis ordained of God, when Providence hath ſet it up.</p>
+            <p>Neither am I alone in this: Tis that which the learned and judicious agree to. As <hi>Calvine</hi> ſpeaking on theſe words, There is no power but is of God, ſayes<note n="(a)" place="margin">Ratio cur de<g ref="char:EOLhyphen"/>beamus eſſe ſub<g ref="char:EOLhyphen"/>jecti Magiſtra<g ref="char:EOLhyphen"/>tibus eſt, quod Dei ordinatione ſunt conſtituti. Quod ſi ita pla<g ref="char:EOLhyphen"/>cet Domino mundum guber<g ref="char:EOLhyphen"/>nare, Dei ordi<g ref="char:EOLhyphen"/>nem invertere nititur adeoque Deo ipſi reſiſtit quiſquis poteſtatem aſpernatur, quando ejus, qui juris politici author eſt, providentiam contem<g ref="char:EOLhyphen"/>nere, bellum cum eo ſuſcipere eſt. <hi>Calv. in Rom 13.</hi>
+               </note> that to ſlight pro<g ref="char:EOLhyphen"/>vidence, is to wage war with God himſelfe; intimating (as you may finde by reading him at large) that the ordaining of Powers in the Text is by providence, which ought to be binding to Chriſtians. And <hi>Bucer</hi> affirmes that<note n="(b)" place="margin">Summum jus omnium poteſtatum, Regum &amp;c. in eo ſitum eſt, quod a Deo Ordinatae ſunt &amp; hiſjus ordinationis unum &amp; indubi<g ref="char:EOLhyphen"/>tatum <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> eſt eſſe Poteſtates: Nam nulla poteſtas niſi certa dei diſpenſatione eſſe poteſt. <hi>Buc. in Rom. 13.</hi>
+               </note> the chiefe <hi>right</hi> of all Powers conſiſts in this, that they are ordained of God: And of this ordination there is this one moſt ſure <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> or evidence, <hi>viz.</hi> That they are Powers, <hi>i. e.</hi> that providence hath ſet them up: for no power can <hi>Be</hi> but by Gods ordering of it to be.</p>
+            <q>
+               <p>Omne ſub regno graviore regnum eſt.</p> 
+               <bibl>Sen.</bibl>
+            </q>
+            <p>And indeed there is nothing by which wee may judge of a Power whether it be of God or no, but onely this, that it actually [is.] If you ſay, yes, the conſent and choice of the people; I ſay, that demonſtrates what is the peoples will, not what is Gods will: We are commanded <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> be ſubject to Powers, in the text, not becauſe the people chooſe them, but becauſe God ordaines them. Now by what <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> we know that a Power is ordained of God, unleſſe we <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ake provi<g ref="char:EOLhyphen"/>dences putting men in poſſeſſion of power, to <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Gods way of ordaining Powers? I ſay by what ſhall we judge whether a Power be ordained of God or no? God doth <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> now re<g ref="char:EOLhyphen"/>veale himſelfe by expreſſe word concerning the thing, how ſhall we know his will then? why, Promotion cometh nei<g ref="char:EOLhyphen"/>ther from the Eaſt, nor Weſt, &amp;c. God giveth the Empires
+<pb n="15" facs="tcp:165910:11"/>of the world to whom he wil. Thou canſt not know who is ordained of God, but only by conſidering whom providence hath exalted as ſupreme; For as ſayes <hi>Calvin,</hi>
+               <note n="*" place="margin">Atque ſimu<g ref="char:EOLhyphen"/>lac in regium faſtigium quem<g ref="char:EOLhyphen"/>piam evehit dominus teſta<g ref="char:EOLhyphen"/>tum nobis facit ſuamvolunta<g ref="char:EOLhyphen"/>tem quod regna<g ref="char:EOLhyphen"/>re illum velit <hi>Cal. Inſt. l. 4. Chap. 28.</hi>
+               </note> As ſoon as ever the Lord hath lifted up any unto the Height of a ſupreme power, he doth witneſſe to us, that it is his will that he ſhould reign.</p>
+            <p>So then, the particulars being thus cleared, conſider what the whole text ſpeakes out. <hi>Let every ſoul be ſubject, i. e.</hi> [or<g ref="char:EOLhyphen"/>derly or according to the Law and Rules of Civill Order placed under] <hi>the Powers that are</hi> [above or in Eminency] <hi>for there is no power on earth</hi> [be it what it will be] <hi>that hath an actuall being,</hi> but is [Providentially] <hi>ordained</hi> by God, and hath validity and Authority from him. So that (as tis in the verſe following) he that reſiſteth the Power [<hi>Gr.</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>] he that doth any thing againſt the Order, reſi ſts the Ordinance of God.</p>
+            <p>I have met with one objection that ſeemes to carry ſome weight in it, which I ſhal here inſert; and give an anſwer to it.</p>
+            <p>The objection is made againſt what hath been given out as the ſenſe and ſcope of my text, <hi>viz.</hi> That thoſe that are actually Supreme, and in Plenary poſſeſſion of Power, are to be ſubmitted to as Powers, or as a Power Ordained of God.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>1</label> Againſt this is argued from 2 <hi>Kings</hi> 11. thus: If poſſeſſion makes a lawfull Power, then <hi>Athalia</hi> was a lawfull Power, and they did ill who did riſe againſt her, and crowne <hi>Joaſh</hi> King. It had queſtionleſſe been rebellion in them to thruſt out her, that had been in <hi>full poſſeſſion</hi> for ſix yeares together; but we finde not that they did amiſſe in putting her off, though ſhe had been actually ſupreme for ſo long time, that the right heir might be annointed King, therefore her being in actuall poſſeſſion did not make her a lawfull power, or a power to which the people were bound to be ſubject: and ſo by conſequence, the like doth not now conſtitute a power to which the people owe ſubjection.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſ. </seg>
+               </label> To which I anſwer, 1 <hi>Jehojada</hi> who contrived the depo<g ref="char:EOLhyphen"/>ſing of <hi>Athaliah</hi> after ſix yeares reign, was no <hi>private man,</hi> but the chiefe Prieſt, to whom it did belong (as ſayes <hi>Peter Mar<g ref="char:EOLhyphen"/>tyr</hi> ſpeaking very well to this very Queſtion) <hi>non modo judi<g ref="char:EOLhyphen"/>care
+<pb n="16" facs="tcp:165910:12"/>res Eccleſiaſticas, verum etiam Civiles,</hi> to judge not onely Church matters, but State affaires too; he was <hi>cuſtos Legum,</hi> and had power to look to the lawes, to keep them from vi<g ref="char:EOLhyphen"/>olation and infringment; if he, and they that acted in this buſineſſe, had been <hi>private men,</hi> it had been rebellion in them, according to <hi>Peter Martyr,</hi> who ſayes, (upon this very caſe) that 'tis not lawfull for private men to caſt downe him, <hi>qui rerum potitur,</hi> that is in plenary poſſeſſion.</p>
+            <p n="2">2. God then ordained rulers by <hi>manifeſt word,</hi> and com<g ref="char:EOLhyphen"/>mand, and therefore ſuch were onely to be acknowledged for lawfull Powers then, as were thus appointed by God; in reſpect of which, <hi>Athaliah</hi> was not, but <hi>Ioaſh</hi> was, the right<g ref="char:EOLhyphen"/>full Prince. But now to us there is no ſuch expreſſe way afforded to determine who ſhould govern, but there is an ex<g ref="char:EOLhyphen"/>preſſe way teaching us whom we ſhould acknowledge, and Submit to, even the <hi>powers that are:</hi> therefore we are not bound to, neither may we, look any further back than the Powers in being, though the Iſraelites might, and perhaps ought, according to a rule which they had more than we have.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>2</label> But it's ſaid <hi>Hoſea</hi> 8.4 by the Lord: <hi>They have ſet up Kings, but not by me, they have made Princes, and I knew it not,</hi> ſpeak<g ref="char:EOLhyphen"/>ing of the peoples following and ſetting up of <hi>Jeroboam</hi> as their King. Therefore all Powers that get up into actuall Domination, are not ordained of God.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſ. </seg>
+               </label> I anſwer, the Lord ſpeaks thus, in reſpect of the indirect courſe the <hi>Ten tribes</hi> took in ſetting up <hi>Ieroboam</hi> to be King over them: not as if he were not a lawfull Power after he was in the throne, or as if God had no hand in ſetting of him up: God himſelfe ſayes he made him King, as you ſhall ſee in the anſwer to the next objection. But however the people were diſorderly, and rebellious in what they did, which is that which this Scripture hath reſpect to: and to this agree <hi>Peter Martyr, Pareus,</hi> and divers others. See the margent.<note n="*" place="margin">Quod autem non promoti fu<g ref="char:EOLhyphen"/>erint (<hi>ſpeaking of the Kings mentioned</hi> Hos. <hi>8.4.</hi>) ad regnum deo volente, cum tota fer<g ref="char:EOLhyphen"/>mè Scriptura pugnat. <hi>Pet. Marrv. Loc. Com.</hi> A Deo fuit illa regni, a Roboamo ad Ieroboamum, tranſlatio, <hi>&amp;c.</hi> Quod vero hic dicit Deus, Jeroboamum Regem non fuiſſe ex ſe, de modo, &amp; circu<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLhyphen"/>ſtantiis facti quas Deus minime probavit, eſt intelligendum. <hi>Par. in Rom.</hi> &amp; plura <hi>in Oſe. 8.4.</hi>
+               </note>
+            </p>
+            <pb n="17" facs="tcp:165910:12"/>
+            <p n="1">
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> 1. They did not ask counſell of God; therefore he ſayes 'twas not by him, that is, his advice.</p>
+            <p n="2">
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> 2. They were not backt with any authority, but were pri<g ref="char:EOLhyphen"/>vate men: And though the Lord had appointed <hi>Jeroboam</hi> to be King, yet this was more than they knew: In this reſpect the Lord ſaies, <hi>he knew it not,</hi> that is, approved it not.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>3</label> But you'l ſay, What, are all tyrannicall and uſurped Pow<g ref="char:EOLhyphen"/>ers of God? This is the way to make God the Author of all the violence, in jury, and oppreſſion, which Tyrants and U<g ref="char:EOLhyphen"/>ſurpers of Government fall under.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> To this I anſwer, that 1. It is moſt clear, that Scripture ſpeaks of all in Power, whether Uſurpers, or not, to be from God himſelf.</p>
+            <p>Do not all call <hi>Jeroboam</hi> an Uſurper, in taking off the <hi>Ten Tribes</hi> from <hi>Rehoboam?</hi> And yet the Lord ſaies, this was of him, and that he would cut off the Kingdom from the hand of <hi>Solomon,</hi> and give the ten Tribes to <hi>Jeroboam.</hi> See 1 <hi>Kings</hi> 12.15. 1 <hi>Kings</hi> 11.31, 35, 37. We know what <hi>Nebuchadnez<g ref="char:EOLhyphen"/>zar</hi> was, <hi>ſtrenuus aliorum invaſor &amp; populator,</hi> a mighty inva<g ref="char:EOLhyphen"/>dour and waſter of others, (as <hi>Calvin</hi> ſtiles him) and yet God ſaies, he ſet him over <hi>Egypt,</hi> though for his part he tyranni<g ref="char:EOLhyphen"/>cally uſurped power over them to their undoing. See <hi>Ezek.</hi> 29.19. And as for that Power under which the Apoſtle was when he writ this Text, the Emperour <hi>Nero,</hi> we may eaſily underſtand by Hiſtory what he was, and how he, and his pre<g ref="char:EOLhyphen"/>deceſſours got their power.</p>
+            <p n="1">
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> 1. He was a profeſſed enemy to the Truth, a Perſecutor of the Saints; all know this. The firſt of the <hi>Ten Perſecutions</hi> began in his time. Chriſtians were not then clamorous, or re<g ref="char:EOLhyphen"/>fuſing to ſubmit unto him, becauſe he would not eſtabliſh their Eccleſiaſticall Government, and Church order by a Law; they would have been glad if they could but have had their lives preſerved, ſo as that they might have profeſſed Chriſt without danger of dying for it, and could not enjoy this.</p>
+            <p n="2">
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> 2. And beſides, for his power, we know it was taken for<g ref="char:EOLhyphen"/>cibly and unjuſtly out of the hands of the Senate and peo<g ref="char:EOLhyphen"/>ple. I know ſome deny this to be an uſurped power, but
+<pb n="18" facs="tcp:165910:13"/>therein they are by themſelves, I think, however they con<g ref="char:EOLhyphen"/>demn ſingularity in others. <hi>Peter Martyr</hi> ſayes, <hi>Romanam Tyrannidem vel Imperium ei (viz. Caeſari) non contulerunt, ſed vi atque potentia uſurparat;</hi> The people gave not the <hi>Roman</hi> Power to <hi>Caeſar,</hi> but he uſurped it by force and might. And <hi>Calvin</hi> ſaies,<note n="a" place="margin">Calv. <hi>in</hi> 1 Pet. 2.13.</note> 
+               <hi>Caeſares qui tunc rerum potiebantur, Monarchiam vi tyrannica ad ſe rapuerant;</hi> The <hi>Caeſars</hi> that then were in poſſeſſion of power, did by a tyrannicall force take the Mo<g ref="char:EOLhyphen"/>narchy to themſelves. Many more teſtimonies I could adde; I have fixed ſome in the margent.<note n="b" place="margin">Legiones ve<g ref="char:EOLhyphen"/>teranae fortes ſed feroces, &amp; ad ſuam vim omnia noſtra conſilia revocantes. <hi>Sleid. de. 4 Sum. Imper. Sermo. Cic. Caeſare,</hi> rerum potiente contra leges &amp; conſuetudinem patriae. <hi>Dio. Hiſt. Rom.</hi> Quam<g ref="char:EOLhyphen"/>vis multi exiſtimant <hi>Julium Caeſarem</hi> occupato imperio, hoc ſibi jus (i. e. regnandi) potius rapuiſſe quam ex <hi>S. C.</hi> accepiſſe. <hi>Balth. Meisn. S. S. Th. D. de Leg.</hi> Nam ipſorum <hi>(Caeſa<g ref="char:EOLhyphen"/>rum)</hi> dignitas omnisatque ſalus erat non in Senatus aut populi, ſed in. Legionum atque mili<g ref="char:EOLhyphen"/>tum poteſtate. <hi>Sleid. de. 4 Sum. Imp. lib. 2 pag. 304. &amp; pag. 305. Sic. Caeſarem</hi> metuebat Se<g ref="char:EOLhyphen"/>natus, ipſe vero <hi>Caeſar</hi> ab impuri militis voluntate propemodum, atque nutu, pendebat. A brave Government. <hi>Afterwards he cites</hi> Eraſmus <hi>ſpeaking of the unhappineſſe of the Roman Empire thus.</hi> O miſerum illorum temporum ſtatum. Oppreſſa Senatus authoritate, oppresſis legibus, oppreſſa populi Romani libertate: Sic ereato principi ſerviebat orbis, princeps ipſe ſer<g ref="char:EOLhyphen"/>viebat eis, qualem, nemo vir bonus domi vellet habere ſervum, &amp;c. Ibid.</note>
+            </p>
+            <p>In ſhort it is thus:<note n="c" place="margin">Heylyn's Georg. p. 147.</note> 
+               <hi>Julius Caeſar</hi> (the firſt of the <hi>Caeſars</hi>) after many ſucceſſes abroad, which he got being a ſervant of <hi>Rome,</hi> of her ſervant made himſelf her maſter. His Succeſſour <hi>Auguſtus</hi> ſet up the <hi>Praetorian</hi> Guard of 10000. men, pretend<g ref="char:EOLhyphen"/>ing for the ſafety of his perſon, but, as Hiſtory ſayes, to awe the <hi>Senate</hi> and people. Then after the death of <hi>Caligula,</hi> the <hi>Senate</hi> had hopes of recovering their Liberty, and when they were contriving the reſtoring of the ſame, theſe ſame <hi>Praeto<g ref="char:EOLhyphen"/>rian Souldiers</hi>
+               <note n="d" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> &amp;c. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> (viz. Claud.) <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>Dio. Hiſt. Rom.</hi>
+               </note> ſaluted <hi>Claudius</hi> Emperour, and forced the <hi>Senate</hi> to conſent to them. The next to him was this <hi>Nero,</hi> who came by the Scepter after the ſame faſhion<note n="e" place="margin">Inter horam ſextam ſeptam jue proceſſit (viz. <hi>Nero</hi>) ad excubitores, cum ob totius diei diritatem non a<g ref="char:EOLhyphen"/>liud auſpicandi tempus accommodatius videretur: proque Palatii gradibus Imperator ſaluta<g ref="char:EOLhyphen"/>tus, lecticâ in caſtra, &amp; inde raptim appellatis militibus in curiam delatus. <hi>Suet.</hi> de <hi>12.</hi> Cae<g ref="char:EOLhyphen"/>ſaribus.</note>. And yet this Power alſo among others, is ſayd to be of God.</p>
+            <p>And yet in the ſecond place, this is not to make God the
+<pb n="19" facs="tcp:165910:13"/>Author of Tyrants uſurpations and violence; for, their<note n="*" place="margin">Aliud eſt po<g ref="char:EOLhyphen"/>teſtas quae à Deo eſt, aliud acqui<g ref="char:EOLhyphen"/>ſitto &amp; uſus poteſtatis. <hi>Par. Rom.</hi>
+               </note> Power is one thing, the acquiſition or adminiſtration of that power is another thing: Their Power is of God, and by his diſpoſal; but the male adminiſtration or acquiſition of the Power, is not of God, ſave onely by permiſſion; as in <hi>Jeroboams</hi> caſe, his ad<g ref="char:EOLhyphen"/>vancement unto the Throne was of God, he made him King (as before) but the indirect courſe of the people was not of him.</p>
+            <p>Neither is this my judgment alone, but the generall vote of the Learned, as you may perceive by their teſtimonies before produced, and by thoſe that I ſhall now annex. <hi>Calvin</hi> upon my Text affi ms, that 'tis<note n="a" place="margin">Etſane hoc verbo mihi vi<g ref="char:EOLhyphen"/>detur Apoſtolus voluiſſe tollere frivolam homi<g ref="char:EOLhyphen"/>num curioſita<g ref="char:EOLhyphen"/>tem, qui ſaepe ſo<g ref="char:EOLhyphen"/>lent inquirere quo jure adepti fuerint poteſta<g ref="char:EOLhyphen"/>tem qui rerum potiuntur: ſatis autem nobis eſſe debet quod praeſunt: non enim conſcenderunt ſua ipſi virtute in hoc faſtigium, ſed manu Domini ſunt impoſiti. <hi>Calv in Rom. 13.</hi>
+               </note> frivolous curioſity to examin by what right, thoſe that are in poſſeſſion, did get their power; for it ought to be enough to us that they are over us: for they could not come to eminency by their own ſtrength, but by God, pla<g ref="char:EOLhyphen"/>cing them in it with his own hand. And again, ſpeaking of Gods enjoyning ſubjection to the King of <hi>Babel,</hi> he ſaies,<note n="b" place="margin">Videmus quanta obedientia Dominus tetrum illum fero<g ref="char:EOLhyphen"/>cemque Tyrannum coli voluerit, non alia ratione niſi quia regnum obtinebat. <hi>Cal. Inſtit. lib. 4. cap. 20.</hi>
+               </note> the Lord commands men to be ſubject to that cruel Tyrant, for no other reaſon but becauſe he had got the Kingdom; though we know without any right: The ſame ſay <hi>Peter Martyr, Bucer,</hi> and others. See the Margent.<note n="c" place="margin">Cum enim quaeritur cui parendum, non eſt ſpectandum qualis ſit qui poteſtatem ex<g ref="char:EOLhyphen"/>ercet, nec quo jure vel injuria quis poteſtatem invaſerit, quave ratione eam adminiſtret, ſed tantum ſi poteſtatem habeat. <hi>Bucer in Rom. 13.</hi> Cùm tamen principatum obtinuerint, (viz. Tyranni &amp; qui uſurpant) atque imperant, privatorum eſſe non videtur illos moliri. <hi>Pet. Mart. Loc. Com.</hi>
+               </note>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>4</label>
+               <hi>But may not Chriſtians reſiſt an <g ref="char:V">Ʋ</g>ſurper?</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſ. </seg>
+               </label> They may reſiſt an Invadour or Uſurper while he is invading and uſurping his power; Yea I may ſay they ought: for ſo much do Chriſtians ow unto the Powers in being over them, that they ought to oppoſe any that ſhall endeavour to diſpoſſeſſe them of that power which God hath put into their hands, ſo violating &amp; diſturbing the Civil Order that is eſtabliſhed &amp; fixed: But for Tyrants &amp; Uſurpers when they are in plenary poſſeſſion, Chri<g ref="char:EOLhyphen"/>ſtians may not oppoſe themſelves againſt them. So<note n="d" place="margin">Deus, ut Da<g ref="char:EOLhyphen"/>niel teſtatur, im<g ref="char:EOLhyphen"/>peria &amp; regna transfert, &amp; quamvis fas eſt tyrannis invadentibus principatum reſiſtere; cum tamen obtinuerint, atque imperant, privatorum eſſe non videtur illos moliri. <hi>Pet. Mart.</hi> Loc. Com.</note> 
+               <hi>Peter Mar<g ref="char:EOLhyphen"/>tyr,</hi> and others.</p>
+            <pb n="20" facs="tcp:165910:14"/>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>5</label> But if this be ſo, how is it poſſible that there can be any change of Government without ſin?</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſ. </seg>
+               </label> I anſwer, this rule reaches to Chriſtians in a private capacity onely: But as for ſuch Magiſtrates as are appointed <hi>ad mode ran<g ref="char:EOLhyphen"/>dum Regum libidinem,</hi> as <hi>Calvine</hi> ſpeakes,<note n="(b)" place="margin">Cal. In<g ref="char:EOLhyphen"/>ſtit. lib. <hi>4.</hi> chap. <hi>28.</hi>
+               </note> to curb and check the exorbitancy of ſupreme Powers, here the caſe is altered. They may do that which private men may not. They may<note n="(c)" place="margin">Eis pro<g ref="char:EOLhyphen"/>fecto licet, ſi princeps pactis &amp; promiſſis non ſteterit, cum in ordi<g ref="char:EOLhyphen"/>nem cogere, ac vi redigere, &amp;c. idque vel armis, &amp;c. <hi>Among others he inſtances in the Engliſh as having ſuch a power in their Parlaments.</hi> Pet. Mart. Loc. Com.</note> regulate, reſtrain, reform, and, if need be, remove too, Powers that are abuſive in the adminiſtration of their Authority: <hi>Paul</hi> in my Text, and ſo I in this diſcourſe ſpeake of private Chriſtians. I hope I have ſufficiently removed theſe blocks.</p>
+            <p>I ſhall ſay but little as to the application of this truth:<note place="margin">
+                  <g ref="char:V">Ʋ</g>ſe.</note> onely I ſhall addreſſe my ſelfe in a word or two unto thoſe gratious ſouls, who, having taſted of Divine love, have given themſelves up unto the will of Jeſus Chriſt, to be wholly acted by it: for others whoſe wills muſt be their Lawes, I have nothing to ſay to them here. Let as many as follow the Lamb, and know his voice, conſider what Chriſt willeth, what the ſpirit of truth di<g ref="char:EOLhyphen"/>rects to, concerning their duty to thoſe Powers that Provi<g ref="char:EOLhyphen"/>dence hath ſet over them. The rule is plain: Be ſubject, or ſub<g ref="char:EOLhyphen"/>ordinate to the Powers that are: Be not a cauſe (<hi>negatively</hi> by not doing what thou ſhould'ſt, or <hi>poſitively,</hi> by doing what thou ſhouldeſt not) of interrupting the Civill Order eſtabliſh<g ref="char:EOLhyphen"/>ed: unite with them that are in Power, as members with the head. Surely if Chrſtians in a private capacity may ſuſpend, or deny ſubjection to Powers actually ſupreme, and diſpute their right and fittedneſſe to rule, then race out this ſcripture, this Text, out of the Bible: yea and all that you finde in 1. <hi>Pet.</hi> 2.13. <hi>Tit.</hi> 3.1. parallel places: Surely theſe muſt ſtand for nought, or elſe ſuch a courſe is unlawfull.</p>
+            <p>Doth not my Text ſay, <hi>Let every ſoul be ſubject to the Powers that are, for they are of God?</hi> To come home then to our caſe. Is not the Parlament the ſupreme power of this Nation? Are not they that now ſit in Parliament, the Powers that are? Pray examine this well.</p>
+            <p n="1">1. Are not they over us? have not they undertaken to Go<g ref="char:EOLhyphen"/>verne
+<pb n="21" facs="tcp:165910:14"/>and protect us? Are we not involved in their power?</p>
+            <p n="2">2. Do they not give lawes to the people, and the people re<g ref="char:EOLhyphen"/>ceive, and ſeek law from them? Elſe what meane our Judges ri<g ref="char:EOLhyphen"/>ding in circuit? and ſuch a great confluence and concourſe of people in all counties ſeeking for juſtice from them? Let your own eyes be witneſſes this<note n="*" place="margin">There being then preſent the Judges with great numbers of the Country whoſe coming from their home was for Law.</note> day.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>
+               </label> Yea, thirdly may not I ſay alſo now, that the people, or the greateſt part of them have conſented to them by engagement? How is it then that Chriſtians, with whom a Goſpel-command ſhould be more prevalent than all the private intereſts in the world, are averſe from an engaged ſubordination?</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſ. </seg>
+               </label> Say not, the Engagement hath been forced on the people, or elſe they would not have taken it. For that's not true: for it is evident that the people Firſt, have freely thoſen to engage rather than to be out of the Parlaments protection. The engagement was and is propoſed to them upon no other termes but onely thus, will you engage, and live under the protection of the Par<g ref="char:EOLhyphen"/>lament? or will you refuſe, and wait for your protection from ſome other perſon or perſons? chooſe whether of theſe two you like. The people finding no ſafety, or poſſibility of good to them, but under the wing of the Parlaments power, did engage. Is this forced? Can a man be ſaid to be forced to an action which he doeth upon this reaſon, that tis the onely ſafe way for him to do it? Surely if they be forced to this, tis by their reaſon, and nothing elſe. Secondly the people have taken this engage<g ref="char:EOLhyphen"/>ment upon the ſame termes that former Oathes to Princes have been taken.</p>
+            <p>This were (me thinks) convincing and ſatisfying enough, if the Parlaments power were meerly uſurped in reſpect of its originall, and corrupt and wicked in its adminiſtration, and yet its plain enough that neither of theſe is ſo. for</p>
+            <p n="1">1. Is it not more than evident the Power of this Common<g ref="char:EOLhyphen"/>wealth was fairly caſt into their hands, after a full debate of the matter before the tribunall of heaven (The onely tribunall at which controverſies between ſupreme Powers are to be deci<g ref="char:EOLhyphen"/>ded) in a lawfull war? And do not the learned agree, and is it not ſuitable to reaſon, that when there is a breach betweene ſu<g ref="char:EOLhyphen"/>preme powers, or ſuch as ſhare in Government, one labouring
+<pb n="22" facs="tcp:165910:15"/>to invade the rights of the other, &amp; it come to war, wherein God is immediately appealed to, there being no Iudicature on earth to judge between them; if one overcometh the other, he that overcometh hath right to diſpoſe of the whole power? Was not the caſe even thus between the late <hi>King</hi> and the <hi>Parliament?</hi> And did not the <hi>Houſe of Lords,</hi> who are alſo laid by as uſeleſſe, reſuſe the protection of the people (in the time of the Hamil<g ref="char:EOLhyphen"/>tonian invaſion) and ſo nulled their owne power, before any body elſe made it void? Me thinks this ſhould ſway with unbi<g ref="char:EOLhyphen"/>aſſed judgements.</p>
+            <p n="2">2. As for the adminiſtration of their Power, ſince God hath (after a fair triall) caſt it upon them (to ſpeake the leaſt, and to avoid all ſuſpicion of flattery which I abhorre) hath it not been hitherto with much lenity towards thoſe that have ſuſpen<g ref="char:EOLhyphen"/>ded obedience to them; and with no ſlender teſtimony of their hatred of injuſtice, and Prophaneſſe? What power in England (if I go no further) ever witneſſed ſo fully againſt vice and un<g ref="char:EOLhyphen"/>godlineſſe as they have? I bleſſe God I am not ſo void of mo<g ref="char:EOLhyphen"/>deſty, civility, and ingenuity, as to be ſo uncharitable (as ſome are) as to cenſure their end in it, whoſe leſſon is it (I pray) to judge amiſſe of mens intentions, when their actions ſpeak well? I am ſure tis none of Chriſts.</p>
+            <p>There are none have much reaſon to object the great <hi>burdens</hi> yet lying on the nation, let them bare the blame of it, that oc<g ref="char:EOLhyphen"/>caſion the keeping up of Armies, by their not acknowledging of, and ſubmitting to the Authority that God hath ſet up: I ſee no reaſon any have to put this upon the Parliaments ſcore.</p>
+            <p>Beſides, I might ſhew you the ſingular benefits of this <hi>form</hi> of Government above either of the other two: but that would make this diſcourſe to ſwell up to a great bigneſſe. Tis eaſie, I con<g ref="char:EOLhyphen"/>feſſe, to ſhew ſome inconveniences that may ſpring up in it, but what form of Government is without ſome danger of corrup<g ref="char:EOLhyphen"/>tion? And yet (if it were needfull in this controverſie) I ſhould eaſily make it appear, that there is no form of Government more likely to continue free from corruption than this which is eſtabliſhed, by a ſucceſſion of Parliaments to be choſen by the people themſelves.</p>
+            <p>Wherefore let this make honeſt hearts the more ready to ſub<g ref="char:EOLhyphen"/>miſſion, I am ſure it ſhould.</p>
+            <pb n="23" facs="tcp:165910:15"/>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>7</label> But I here ſome ſay, we are bound by former Oaths and Co<g ref="char:EOLhyphen"/>venants to the contrary; and we may not break the Oath of God that is upon us.</p>
+            <p n="1">
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſ. </seg>
+               </label> 1. Beloved I know no Oath or Covenant that ever was given to the people of <hi>England,</hi> that bindes them from ever ſubmit<g ref="char:EOLhyphen"/>ting to any other form of Government than was formerly in being, but onely ſuch as bound them unto fidelity unto ſuch Powers as were in being. I wiſh you would impartially look them all over againe, and ſee whether it be otherwiſe than I ſay. You might be obliged to <hi>preferving,</hi> but there is not a word that mentions the <hi>reſtoring</hi> of the Powers that were, if they ſhould be taken away. And if any of the Covenants ſhould con<g ref="char:EOLhyphen"/>tain that which ſhould binde Chriſtians, in a private capacity, to endeavour ſuch a thing, they were clearly unlawfull: for pri<g ref="char:EOLhyphen"/>vate Chriſtians may not attempt the ſetting up of what is put down by publique power.</p>
+            <p>Secondly I confeſſe an Oath ought to be very ſacred unto Chriſtians, who are acquainted with the glorious name of God: But obſerve, tis onely <hi>Durante ejus Obligatione,</hi> as long as its Obligation remains, and no longer. We know that though God, before whom we convenant and ſwear, be eternall, and un<g ref="char:EOLhyphen"/>changable, yet the matter of our Covenants is not ſo, and ther<g ref="char:EOLhyphen"/>fore the obligation of them may ceaſe and expire. Now the ob<g ref="char:EOLhyphen"/>ligation of an oath or Covenant expires ſeverall wayes, as</p>
+            <p n="1">1. If we ſwear to one, as under ſuch a capacity, when that capacity ceaſes, the Oath it ſelfe, and the Obligation of it cea<g ref="char:EOLhyphen"/>ſes. So ſayes <hi>Grotius</hi> expreſsly. <hi>Non tenebitur ſi ceſſet qualitas ſub qua alicui juravit;</hi> A man is not bound when that quality,<note place="margin">Grotius de jure Belli &amp; Pacis <hi>lib. 2. Cap. 13.</hi>
+               </note> under which he ſwore to, or with, once ceaſes As if a Magiſtraet ceaſes to be a Magiſtrate, as ſayes he. As, if we bind our ſelves to a King, and he ceaſes to be a King: or if to his ſucceſſours, and they do not ſucceed in the throne, but are ejected from ſo much as the priviledge of Subjects; here the obligation muſt needs be at at an end If I promiſe to reſtore a ſword lent me, at ſuch a time, to a perſon that in the interim grows mad, the obligaion of this promiſe muſt needs be void. He is not the man he was when I made the engagement to him. If a Tenant, farming a Tenement, promiſes to pay ſuch a rent, to ſuch a Lord, during
+<pb n="24" facs="tcp:165910:16"/>ſuch a terme, and before halfe the terme be up, the power and right of this Tenement be transferred to another, ſuppoſe by means of the Lords forfeiting his right and intereſt from him and his heirs for ever by treaſon; doth not this promiſe and the obligation of it immediately expire? is he bound thinke you to what he did promiſe to the Lord? or hath the heir of the ſaid Lord any right to call for his rent? or if he ſhould, is the tenant bound by his promiſe to give it him? I hope not.</p>
+            <p>And is not this our caſe? are the perſons ſworne to and co<g ref="char:EOLhyphen"/>venanted with in that capacity or quality under which we en<g ref="char:EOLhyphen"/>gaged to them? Is not the power of government put by God in<g ref="char:EOLhyphen"/>to other hands? by God, I ſay, according to the rule in the Text, <hi>There is no power but is of God.</hi> Is not the late King, with his heirs, and ſucceſſours diſpoſſeſſed by God, who gives, and takes away rights of government according as ſeems good to him, by putting downe one and ſetting up another?</p>
+            <p>The Parlament have declared the ſupreme power to be in themſelves, excluſively <hi>without a King or houſe of Lords,</hi> and they are the Powers that now are, as hath been cleared: therefore Kingly Government, both in the late King, and in his heir muſt needs be extinct, as to <hi>England,</hi> for.</p>
+            <p>
+               <hi>Non capit regnum Duos. Sen.</hi>
+            </p>
+            <p>
+               <hi>One people cannot have two ſupreme Powers at once.</hi>
+            </p>
+            <p n="2">
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> 2. When by the intervening of ſome unexpected caſe, the matter of the Oath or promiſe becomes unlawfull, then doth its obligation expire.<note n="(a)" place="margin">Satis eſt quando juramus nos habere hanc voluntatem illa ex equendi quae pollicemur: quod ſi Deus ſe<g ref="char:EOLhyphen"/>cus oſtenderit faciendum, no<g ref="char:EOLhyphen"/>biſque declara<g ref="char:EOLhyphen"/>ratum fuerit, id quod promi<g ref="char:EOLhyphen"/>ſimus Divinae voluntati adverſari: Jam neque ille cui juramus ea à nobis debet exigere, quod ſi for<g ref="char:EOLhyphen"/>te faciat, jus ejus nullum eſſe cenſetur. <hi>Pet. Mart. Loc. Com.</hi>
+               </note> As, if a man ſhould promiſe to marry a certain woman, before ſuch a time, and ſhe in the interim be married to another, he is not any longer bound by his pro<g ref="char:EOLhyphen"/>miſe. And is not this our caſe? hath not this State another head? is there not another Power over us? and is there not a Goſpel<g ref="char:EOLhyphen"/>command enjoyning ſubjection to the Powers that are? either the obligation of former engagements muſt be at an end, or we muſt be bound to the violation of a Divine law; which can not be.</p>
+            <p n="3">
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> 3. The Obligation of an Oath or engagement expires, when
+<pb n="25" facs="tcp:165910:16"/>there is a ceaſing of ſome expreſſe, or tacit condition of the ſame. In all promiſory Oaths and Covenants there muſt be ſome<note n="(b)" place="margin">A ſubdi<g ref="char:EOLhyphen"/>ditis obedien<g ref="char:EOLhyphen"/>tiae &amp; obſequio<g ref="char:EOLhyphen"/>rum promiſſio fit ſub conditione vel tacitavel expreſſa. <hi>Iun. Brut. de vi<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d. Tyr.</hi> Dicimus ſi promiſſio fundata ſit in praeſumptione quadam rei quae non ita ſe habeat, naturaliter nullam ejus eſſe vim, quia omni<g ref="char:EOLhyphen"/>no promiſſor non conſentit in promiſſium, niſi ſub quadam conditione quae reipſa non exſtitit. <hi>Grot. de Iure Belli &amp; pacis.</hi>
+               </note> conditions expreſt, or implyed, or both; for elſe they could not be lawfull, being <hi>de futuro,</hi> of the future, which is not in our Power.</p>
+            <p>Now 1. Judicious men ſay, that engagements made to Poli<g ref="char:EOLhyphen"/>ticall and publique perſons, are to be underſtood in this Poli<g ref="char:EOLhyphen"/>tical ſenſe, even with the tacit condition of holdiug their poſ<g ref="char:EOLhyphen"/>ſeſſions, and no further; if that fail, or when it doth, then the obligation ceaſes: and therefore upon this account the dipoſ<g ref="char:EOLhyphen"/>ſeſſing of the Powers formerly ingaged to, doth free us from the tie that was upon us.</p>
+            <p>And ſecondly I am ſure this muſt needs be a condition imply<g ref="char:EOLhyphen"/>ed in all covenants.<milestone type="tcpmilestone" unit="unspecified" n="2"/> So far as my holding to the matter of the ſame do not prove ſinfull and evil. But it doth now in our caſe,<note place="margin">Non valent promiſſa facti illiciti quia ad illa nemo jus habet nec poteſt habere. <hi>Grot. de Iure Belli &amp; pacis.</hi>
+               </note> as before; you can not ſtick to your former Covenants (at leaſt in the ſenſe that ſome conceive) without ſin, for to hold to what is conceived to be contain'd in former Engagements, car<g ref="char:EOLhyphen"/>ries in it non-ſubjection to this Power that is now in being; which (if we will believe <hi>Paul</hi>) is unlawfull and ſinfull.</p>
+            <p n="4">4. The obligation of an Oath or Engagement ceaſes, when there is ſuch a change in the ſtate of things, between the making, and fulfilling of the Oath, that if at the time of making, the ſtate and change of things, that afterward followed, had been known, the oath had not, or could not have been taken.<note place="margin">Si candide a<g ref="char:EOLhyphen"/>git, tum non aſtringitur ad ſervandum niſi ea quae cogita<g ref="char:EOLhyphen"/>vit, in foro Conſcientiae. <hi>Pet Martyr. Loc. Com.</hi>
+               </note> So <hi>Sanderſon</hi> as I take it, in a tract of his. In ſuch a caſe, if a man be candid, and ſincere in taking the Oath, he is bound to no more than what he apprehended in taking the ſame. And if cer<g ref="char:EOLhyphen"/>tain notable and unexpected changes, quite alter the caſe, a man is free from his promiſe. As, in caſe I promiſe to do this or that in order to common peace and welfare, and then finde, that (by reaſon of ſome change in affairs) I ſhall ruine the publique by doing that which I promi<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed to do in order to publique good: ſurely this promiſe muſt needs be void, or if it binde to a<g ref="char:EOLhyphen"/>ny
+<pb n="26" facs="tcp:165910:17"/>thing, tis to a deſiſting from what was promiſed to be done, becauſe deſtructive to the chief end and intent of my promiſe. This is our very caſe; were not all former Oaths and Govenants taken in order to publique Peace, welfare, and good, as the chief end? And will not the keeping of them (as the Adverſaries of the preſent Power would have it, in maintaining the preten<g ref="char:EOLhyphen"/>ded Right of the late Kings Son) be the only way to war, diſor<g ref="char:EOLhyphen"/>der, confuſion, blood?</p>
+            <p>Wherefore Chriſtians, I beſeech you in the bowels of Chriſt, learn your duty in reference to the Powers that are over you. Se<g ref="char:EOLhyphen"/>dition was an old blemiſh caſt upon the profeſſours of truth, but without cauſe: Oh let it not now be juſtly caſt upon you. Let it not be ſaid, truely profeſſours of religion are now the greateſt State-incendiaries. Ah! do not your hearts tremble to think of blood again? can you hope for it, or look for it? ſure I can hardly think it. But Ah! Whether will not paſſion, and blinde affection tranſport and carry men? We finde ſuch folly prevailing as<note n="*" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> Dio. Hiſt. Rom.</note> 
+               <hi>Dion</hi> the Hiſtorian ſayes, that men are greedy after ſmall matters that they count good, though they uſher in neceſſarily much more evill with them; like <hi>Nero's</hi> mother, who, when the Aſtrolo<g ref="char:EOLhyphen"/>gers told her that her ſon ſhould reign, &amp; with al that he ſhould put her to death, ſaid, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, Let him kill me; onely let him reign. O furor! O madneſſe! Let him reign (ſay ſome) though the Nation dy for it Let chriſtians be more meek, more ſober. Do not proſecute a particular pri<g ref="char:EOLhyphen"/>vate <hi>right</hi> (as you may ſuppoſe) againſt publique welfare; I am ſure that is not the courſe of a<note n="*" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> Dio. Hiſt. Rom.</note> modeſt, diſcret, &amp; wiſe Chriſtian. I intend this diſcourſe onely, or chiefly, for honeſt hearts that yet are diſſenting and unſatisfied. God I hope hath more mercy in ſtore for you, than to give you your deſires and expectations, in this thing. Learn your duty; ſhake off the yoke of earthly Powers, and you ſhake off Gods yoke too, and ſo run your ſelves into the flames of divine diſpleaſure, as well as humane, and invite the juſtice both of God and men to take hold of you: for <hi>they that reſiſt receive to themſelves Damnation.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
